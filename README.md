@@ -14,3 +14,6 @@ This Streamlit-based application allows users to summarize content from various 
 3) BeautifulSoup4: For scraping text from URLs.
 4) Requests: For making HTTP requests to retrieve web content.
 5) Transformers: Hugging Face’s library to load the pre-trained summarization model.
+
+F1 Score (0.7765)
+F1 score reflects an excellent balance between precision and recall, with the model now being both accurate and thorough. This metric is vital because it shows that the model can give a concise yet complete summary.
