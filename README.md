@@ -17,3 +17,5 @@ This Streamlit-based application allows users to summarize content from various 
 
 F1 Score (0.7765)
 F1 score reflects an excellent balance between precision and recall, with the model now being both accurate and thorough. This metric is vital because it shows that the model can give a concise yet complete summary.
+
+**LINK** - https://text-summarizatiion-4aqfecg7icelnir5cpwfkk.streamlit.app/ 
